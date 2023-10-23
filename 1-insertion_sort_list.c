@@ -4,6 +4,7 @@
 
 /**
  * swap_nodes - swaps two nodes in a listint_t doubly-linked list.
+ *
  * @h: head pointer
  * @n1: first node
  * @n2: second node
