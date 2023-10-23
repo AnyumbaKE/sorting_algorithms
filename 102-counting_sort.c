@@ -6,6 +6,7 @@
  * get_max - get the maximum value in an array of integers.
  * @array: array of integers.
  * @size: size of the array.
+ *
  * Return: The maximum integer in the array.
  */
 int get_max(int *array, int size)

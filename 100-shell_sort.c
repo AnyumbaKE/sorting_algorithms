@@ -20,6 +20,7 @@ void swap_ints(int *a, int *b)
  * shell_sort - Sort order using the shell sort algorithm.
  * @array: array of integers.
  * @size: size of array
+ *
  * Description: Uses the Knuth interval sequence.
  **/
 void shell_sort(int *array, size_t size)

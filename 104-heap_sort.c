@@ -8,6 +8,7 @@ void heap_sort(int *array, size_t size);
 
 /**
  * swap_ints - Swap two integers in an array.
+ *
  * @a: The first integer to swap.
  * @b: The second integer to swap.
  */
@@ -22,6 +23,7 @@ void swap_ints(int *a, int *b)
 
 /**
  * max_heapify - Turn a binary tree into a complete binary heap.
+ *
  * @array: An array of integers representing a binary tree.
  * @size: The size of the array/tree.
  * @base: The index of the base row of the tree.

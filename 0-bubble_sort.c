@@ -21,6 +21,7 @@ void swap_ints(int *a, int *b)
  * @array: array of integers to sort.
  * @size: array size
  * Description: prints the array after each swap.
+ *
  */
 void bubble_sort(int *array, size_t size)
 {

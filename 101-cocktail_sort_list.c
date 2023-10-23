@@ -36,6 +36,7 @@ void swap_node_ahead(listint_t **list, listint_t **tail, listint_t **shaker)
  * @list: head of a doubly-linked list of integers.
  * @tail: tail of the doubly-linked list.
  * @shaker: A pointer to the current swapping node of the cocktail.
+ *
  */
 void swap_node_behind(listint_t **list, listint_t **tail, listint_t **shaker)
 {
