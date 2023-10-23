@@ -4,6 +4,7 @@
 
 /**
  * swap_nodes - swaps two nodes in a listint_t doubly-linked list.
+ *
  * @h: head pointer
  * @n1: first node
  * @n2: second node
@@ -25,6 +26,7 @@ void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2)
 
 /**
  * insertion_sort_list - Sorts integers using  insertion sort algorithm.
+ *
  * @list: head of a doubly-linked list of integers.
  * Description: Prints the list after each swap.
  */
