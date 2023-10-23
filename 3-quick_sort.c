@@ -58,7 +58,6 @@ int lomuto_partition(int *array, size_t size, int left, int right)
 
 /**
  * lomuto_sort - Implement the quicksort algorithm through recursion.
- *
  * @array: An array of integers to sort.
  * @size: The size of the array.
  * @left: The starting index of the array partition to order.
@@ -79,7 +78,6 @@ void lomuto_sort(int *array, size_t size, int left, int right)
 
 /**
  * quick_sort - Sort in ascending order using the quicksort algorithm.
- *
  * @array: array of integers.
  * @size: size of the array.
  * Description: Prints the array after each swap of two elements.
